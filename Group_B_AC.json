@@ -1,0 +1,42 @@
+{
+  "name": "Group_B",
+  "task": "AC",
+  "cost": 0.4032767007444491,
+  "nodes": [
+    {
+      "id": 1,
+      "voltage_angle": 0.0,
+      "voltage_magnitude": 1.0,
+      "power": 0.9451009564369689,
+      "reactive_power": 0.6099494016115005
+    },
+    {
+      "id": 2,
+      "voltage_angle": -0.1479605917142426,
+      "voltage_magnitude": 0.9839069187431303,
+      "power": 0.0,
+      "reactive_power": 0.0
+    },
+    {
+      "id": 3,
+      "voltage_angle": -0.06511621773008298,
+      "voltage_magnitude": 0.9652306188492912,
+      "power": 0.19409263572233498,
+      "reactive_power": -0.08980595382293306
+    },
+    {
+      "id": 4,
+      "voltage_angle": -0.1622079660764928,
+      "voltage_magnitude": 0.9710647027190298,
+      "power": 0.05666246887045961,
+      "reactive_power": 0.2
+    },
+    {
+      "id": 5,
+      "voltage_angle": -0.15284194533566098,
+      "voltage_magnitude": 0.95,
+      "power": 0.0,
+      "reactive_power": 0.0
+    }
+  ]
+}
